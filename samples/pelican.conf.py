@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 AUTHOR = u'Alexis Métaireau'
-SITENAME = u"Alexis' log"
+SITENAME = u"Alexis' logdddd"
 SITEURL = 'http://blog.notmyidea.org'
 TIMEZONE = "Europe/Paris"
 
